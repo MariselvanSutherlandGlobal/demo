@@ -23,14 +23,14 @@
     "@types/body-parser": "1.19.5",
     "@types/cors": "2.8.17",
     "@types/express": "4.17.21",
+    "@types/got": "9.6.12",
     "@types/helmet": "0.0.48",
     "@types/node": "20.14.11",
     "@types/swagger-ui-express": "4.1.6",
-    "ts-node-dev": "2.0.0",
-    "typescript": "5.5.3",
-    "@types/got": "9.6.12",
     "nodemon": "3.1.4",
-    "tsc-alias": "1.8.10"
+    "ts-node-dev": "2.0.0",
+    "tsc-alias": "1.8.10",
+    "typescript": "5.5.3"
   },
   "dependencies": {
     "@opentelemetry/api": "1.4.1",
@@ -77,6 +77,7 @@
     "swagger-stats": "0.99.7",
     "swagger-ui-express": "5.0.1",
     "tough-cookie": "4.1.4",
+    "typeorm": "1.1.1",
     "winston": "3.13.1",
     "winston-daily-rotate-file": "5.0.0",
     "xml2js": "0.6.2"
